@@ -103,6 +103,7 @@ celerybeat.pid
 
 # Environments
 .idea
+staticfiles
 .env
 .venv
 env/
